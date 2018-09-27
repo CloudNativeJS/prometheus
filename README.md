@@ -1,2 +1,1 @@
-# prometheus
-New prometheus js client
+# Prometheus client
