@@ -3,9 +3,11 @@
   "version": "0.0.1",
   "license": "Apache-2.0",
   "scripts": {
-    "lint": "tslint -c tslint.json **/*.ts"
+    "lint": "tslint -c tslint.json **/*.ts",
+    "build": "tsc"
   },
   "devDependencies": {
-    "tslint": "^5.11.0"
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.1"
   }
 }
